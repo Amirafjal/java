@@ -1,0 +1,13 @@
+package demo;
+
+public class Dollar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		for(int j=1;j<=4;j++) {
+			System.out.print("$ ");
+		}
+
+	}
+
+}
