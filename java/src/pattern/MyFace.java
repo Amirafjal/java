@@ -3,7 +3,7 @@ package pattern;
 public class MyFace {
 
 	public static void main(String[] args) {
-		int n=5;
+		int n=4;
 		//i0
 		for(int i=0; i<n; i++) {
 			//0
